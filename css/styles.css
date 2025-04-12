@@ -149,11 +149,12 @@ font-weight: 700;
     height: 56px;
     margin-left: auto;
     margin-right: auto;
+    cursor: pointer;
 }
 
 .title-btn:hover, .title-btn:focus {
     background: #404bbf;
-    cursor: pointer;
+
 }
 /* advantages */
 .visually-hidden {
